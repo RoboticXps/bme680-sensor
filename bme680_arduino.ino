@@ -1,3 +1,8 @@
+/*
+Example for BME680 Sensor with Arduino Uno.
+By: RoboticX Team
+*/
+
 #include <Wire.h>
 #include <Adafruit_Sensor.h>
 #include "Adafruit_BME680.h"
